@@ -50,7 +50,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Pima-Indians-Diabetes-Dataset-Kaggle.git
+git clone https://github.com/hossein-zandinejad/Pima-Indians-Diabets-Dataset-Kaggle-
 ```
 ## Data
 
