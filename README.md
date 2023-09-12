@@ -3,8 +3,7 @@ Pima Indians Diabetes Dataset (Kaggle) analysis
 
 # Pima-Indians-Diabetes-Dataset-Kaggle
 
-This repository contains code and documentation for the "Pima Indians Diabetes Dataset" from Kaggle. The dataset is used for Data Mining Homework 2 by Hossein Zandinejad (610398129).
-
+This repository contains code and documentation for the "Pima Indians Diabetes Dataset" from Kaggle. The dataset is used for the Data Mining Course by me.
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -103,4 +102,4 @@ Based on the analysis and evaluation of the models, it is concluded that the Ran
 
 Feel free to explore the code and documentation in this repository for more details on the analysis and results.
 
-If you have any questions or suggestions, please contact Hossein Zandinejad at 610398129.
+If you have any questions or suggestions, please contact me.
