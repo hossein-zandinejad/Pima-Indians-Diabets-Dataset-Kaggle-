@@ -2,7 +2,7 @@
 Pima Indians Diabetes Dataset (Kaggle) analysis
 
 # Pima-Indians-Diabetes-Dataset-Kaggle
-
+![Kaggle logo](kagglelogo.png)
 This repository contains code and documentation for the "Pima Indians Diabetes Dataset" from Kaggle. The dataset is used for the Data Mining Course by me.
 ## Table of Contents
 
